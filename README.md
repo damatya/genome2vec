@@ -1,4 +1,5 @@
-# genome2vec, Debha Amatya
+# genome2vec
+## Debha Amatya, 3/1/2019
 
 A novel method for vectorization of genomics data to enable machine learning applications, such as classifcation. This repository contains the following files:
 
